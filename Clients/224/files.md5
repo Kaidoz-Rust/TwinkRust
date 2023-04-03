@@ -349,7 +349,7 @@
 \BepInEx\interop\UnityEngine.VRModule.dll:52856d9d
 \BepInEx\interop\UnityEngine.WindModule.dll:2e63d887
 \BepInEx\interop\UnityEngine.XRModule.dll:d1a00be3
-\BepInEx\plugins\Rust-Mod.dll:b93d50b8
+\BepInEx\plugins\Rust-Mod.dll:87647399
 \BepInEx\unity-libs\UnityEngine.AccessibilityModule.dll:d9a10715
 \BepInEx\unity-libs\UnityEngine.AIModule.dll:adb9c7e9
 \BepInEx\unity-libs\UnityEngine.AndroidJNIModule.dll:dd228767
@@ -410,3 +410,9 @@
 \BepInEx\unity-libs\UnityEngine.VRModule.dll:f24d9fe3
 \BepInEx\unity-libs\UnityEngine.WindModule.dll:08276ebf
 \BepInEx\unity-libs\UnityEngine.XRModule.dll:7c08d13c
+\workshop\2200644593\icon.png:70034131
+\workshop\2200644593\icon_background.png:94186380
+\workshop\2200644593\manifest.txt:65ba5fad
+\workshop\2200644593\_BumpMap0.png:dbd11277
+\workshop\2200644593\_MainTex0.png:6f0018c7
+\workshop\2200644593\_SpecGlossMap0.png:0ba1801a
