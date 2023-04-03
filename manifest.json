@@ -296,7 +296,7 @@
   "servers": {
     "official": [
       {
-        "address": "play.twinkrust.ru",
+        "address": "195.18.27.123",
         "port": 35016,
         "tags": null
       }
