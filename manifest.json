@@ -1,1 +1,431 @@
-test
+{
+  "manifestVersion": 3,
+  "date": "2023-03-11T09:39:35.2453811Z",
+  "news": {
+    "blogs": [
+      {
+        "date": "2023-03-02T12:09:00",
+        "shortName": "eye-in-the-sky",
+        "title": "Eye In The Sky",
+        "headerImage": "https://files.facepunch.com/paddy/20230301/rc_drone_02.jpg",
+        "summaryHtml": "RF devices have received an upgrade! Player-controlled drones, remote detonated C4, new CCTV camera and Industrial Improvements, along with the usual fixes and improvements.  ",
+        "url": "https://rust.facepunch.com/blog/eye-in-the-sky/",
+        "tags": "DEVBLOG"
+      },
+      {
+        "date": "2023-02-20T01:00:00",
+        "shortName": "community-update-250",
+        "title": "Community Update 250",
+        "headerImage": "https://files.facepunch.com/errn/1b1911b1/250%20cover.jpg",
+        "summaryHtml": "Charity Success, Industrial Update Brainstorming, Great Twitch Moments, community made Hapis & more!",
+        "url": "https://rust.facepunch.com/blog/community-update-250/",
+        "tags": "Community"
+      },
+      {
+        "date": "2023-02-02T13:45:00",
+        "shortName": "industrial-update",
+        "title": "Industrial Update",
+        "headerImage": "https://files.facepunch.com/paddy/20230201/indst_combiner_02.jpg",
+        "summaryHtml": "Is it just a pipe dream? No! The era of automation is here! ",
+        "url": "https://rust.facepunch.com/blog/industrial-update/",
+        "tags": "DEVBLOG"
+      },
+      {
+        "date": "2023-01-13T12:15:00",
+        "shortName": "community-update-249",
+        "title": "Community Update 249",
+        "headerImage": "https://files.facepunch.com/errn/1b0411b1/starter_area_4.png",
+        "summaryHtml": "Trust in Rust Tournament, Twitch Drops, Xmas Base Decoration winners, Cobalt Recruitment Propaganda, Deskmats, and more!",
+        "url": "https://rust.facepunch.com/blog/community-update-249/",
+        "tags": "Community"
+      },
+      {
+        "date": "2023-01-05T02:00:00",
+        "shortName": "surviving-10-years",
+        "title": "Surviving 10 years",
+        "headerImage": "https://files.facepunch.com/Alistair/01/04/2F3431/chrome_iEcrflQ2eX.jpg",
+        "summaryHtml": "Servers are now wiped, Santa is packing up and clearing out the bodies, we hope you enjoyed the Holiday Season. In this blog, we recap 2022 and reveal some upcoming changes.",
+        "url": "https://rust.facepunch.com/blog/surviving-10-years/",
+        "tags": "DEVBLOG"
+      }
+    ]
+  },
+  "administrators": [
+    {
+      "userId": "76561197960279927",
+      "level": "Administrator"
+    },
+    {
+      "userId": "76561197960530564",
+      "level": "Developer"
+    },
+    {
+      "userId": "76561197965370356",
+      "level": "Developer"
+    },
+    {
+      "userId": "76561197965938208",
+      "level": "Developer"
+    },
+    {
+      "userId": "76561197971267225",
+      "level": "Developer"
+    },
+    {
+      "userId": "76561197983412091",
+      "level": "Developer"
+    },
+    {
+      "userId": "76561197992746895",
+      "level": "Administrator"
+    },
+    {
+      "userId": "76561197995736806",
+      "level": "Administrator"
+    },
+    {
+      "userId": "76561197997806304",
+      "level": "Developer"
+    },
+    {
+      "userId": "76561198002789398",
+      "level": "Administrator"
+    },
+    {
+      "userId": "76561198072487602",
+      "level": "Developer"
+    },
+    {
+      "userId": "76561198116916566",
+      "level": "Developer"
+    },
+    {
+      "userId": "76561198240345356",
+      "level": "Administrator"
+    },
+    {
+      "userId": "76561198051504750",
+      "level": "Moderator"
+    },
+    {
+      "userId": "76561197993533988",
+      "level": "Developer"
+    },
+    {
+      "userId": "76561197960520255",
+      "level": "Developer"
+    },
+    {
+      "userId": "76561197985317446",
+      "level": "Developer"
+    },
+    {
+      "userId": "76561198299879894",
+      "level": "Moderator"
+    },
+    {
+      "userId": "76561198167084989",
+      "level": "Moderator"
+    },
+    {
+      "userId": "76561197969146424",
+      "level": "Developer"
+    },
+    {
+      "userId": "76561198204466708",
+      "level": "Developer"
+    },
+    {
+      "userId": "76561198008097027",
+      "level": "Administrator"
+    },
+    {
+      "userId": "76561197975976696",
+      "level": "Developer"
+    },
+    {
+      "userId": "76561198079804851",
+      "level": "Developer"
+    },
+    {
+      "userId": "76561197978798951",
+      "level": "Developer"
+    },
+    {
+      "userId": "76561198002164049",
+      "level": "Developer"
+    },
+    {
+      "userId": "76561197960951824",
+      "level": "Developer"
+    },
+    {
+      "userId": "76561197961016649",
+      "level": "Developer"
+    },
+    {
+      "userId": "76561198104673895",
+      "level": "Developer"
+    },
+    {
+      "userId": "76561198348127571",
+      "level": "Developer"
+    },
+    {
+      "userId": "76561198053736758",
+      "level": "Developer"
+    },
+    {
+      "userId": "76561197994097323",
+      "level": "Developer"
+    },
+    {
+      "userId": "76561198433846581",
+      "level": "Developer"
+    }
+  ],
+  "heroes": [
+    {
+      "heroId": 15,
+      "ident": "companion01",
+      "mediaUrl": "https://files.facepunch.com/paddy/20200604/herovid_companionapp.mp4",
+      "titleText": "",
+      "actionText": "Download",
+      "targetUrl": "https://rust.facepunch.com/companion",
+      "conditions": "",
+      "chance": 0.1
+    },
+    {
+      "heroId": 18,
+      "ident": "secretlab01",
+      "mediaUrl": "https://files.facepunch.com/paddy/20201001/secretlab_herovid.mp4",
+      "titleText": "",
+      "actionText": "Buy Now",
+      "targetUrl": "https://secretlab.co/rust",
+      "conditions": "",
+      "chance": 0
+    },
+    {
+      "heroId": 30,
+      "ident": "voiceprops01",
+      "mediaUrl": "https://files.facepunch.com/paddy/20210702/voiceprops_hero.mp4",
+      "titleText": "",
+      "actionText": "DLC",
+      "targetUrl": "appid:1670430",
+      "conditions": "",
+      "chance": 0.1
+    },
+    {
+      "heroId": 37,
+      "ident": "arcticpack1",
+      "mediaUrl": "https://files.facepunch.com/paddy/20220204/arcticpack_hero.mp4",
+      "titleText": "https://files.facepunch.com/paddy/20220203/arcticpack_hero_gfx.png",
+      "actionText": "Visit Store",
+      "targetUrl": "itemstore:general",
+      "conditions": "",
+      "chance": 0.1
+    },
+    {
+      "heroId": 40,
+      "ident": "soundtrack1",
+      "mediaUrl": "https://files.facepunch.com/paddy/20220304/hero_ost_vol1.mp4",
+      "titleText": "https://files.facepunch.com/paddy/20220304/ost_hero_gfx.png",
+      "actionText": "Out Now",
+      "targetUrl": "https://store.steampowered.com/app/1701720/Rust_Soundtrack/",
+      "conditions": "",
+      "chance": 0.1
+    },
+    {
+      "heroId": 42,
+      "ident": "chippyarcade1",
+      "mediaUrl": "https://files.facepunch.com/paddy/20220324/chippy_arcade_hero.mp4",
+      "titleText": "https://files.facepunch.com/paddy/20220324/chippy_arcade_hero_gfx.png",
+      "actionText": "Learn More",
+      "targetUrl": "appid:602700",
+      "conditions": "",
+      "chance": 0
+    },
+    {
+      "heroId": 47,
+      "ident": "lumberjackpack1",
+      "mediaUrl": "https://files.facepunch.com/paddy/20221007/lumberjack_hero_v001.mp4",
+      "titleText": "https://files.facepunch.com/paddy/20221007/lumberjack_hero_gfx.png",
+      "actionText": "Visit Store",
+      "targetUrl": "itemstore:general",
+      "conditions": "",
+      "chance": 0.1
+    },
+    {
+      "heroId": 50,
+      "ident": "displatestore",
+      "mediaUrl": "https://files.facepunch.com/errn/1b1111b1/Displate_Hero.mp4",
+      "titleText": "https://files.facepunch.com/errn/1b1111b1/displate_hero_image.png",
+      "actionText": "Visit Store",
+      "targetUrl": "https://displate.com/rustgame/rust",
+      "conditions": "",
+      "chance": 0.1
+    },
+    {
+      "heroId": 52,
+      "ident": "icekingpack",
+      "mediaUrl": "https://files.facepunch.com/paddy/20221217/icekingpack_hero.mp4",
+      "titleText": "https://files.facepunch.com/paddy/20221217/ikp-graphic.png",
+      "actionText": "Visit Store",
+      "targetUrl": "itemstore:general",
+      "conditions": "",
+      "chance": 0.3
+    },
+    {
+      "heroId": 53,
+      "ident": "trustinrust4",
+      "mediaUrl": "https://files.facepunch.com/errn/1b1511b1/tr21-ingame-compressed.mp4",
+      "titleText": "https://files.facepunch.com/errn/1b1511b1/tr-21-overlay.png",
+      "actionText": "Get Synced",
+      "targetUrl": "https://twitch.facepunch.com/",
+      "conditions": "",
+      "chance": 0
+    }
+  ],
+  "sentryUrl": "https://6975b41a59924b48bac4fa8a40117a2d:01fd52e3df8c48488e2d90fcf0634f2e@sentry.io/51079",
+  "databaseUrl": "https://api.facepunch.com/api/public/database/{action}/?public_key=j0VF6sNnzn9rwt9qTZtI02zTYK8PRdN1",
+  "feedbackUrl": "https://api.facepunch.com/api/public/feedback/add/?public_key=j0VF6sNnzn9rwt9qTZtI02zTYK8PRdN1",
+  "reportUrl": "https://api.facepunch.com/api/public/feedback/report/?public_key=j0VF6sNnzn9rwt9qTZtI02zTYK8PRdN1",
+  "leaderboardUrl": "https://api.facepunch.com/api/public/leaderboard/{action}/?public_key=j0VF6sNnzn9rwt9qTZtI02zTYK8PRdN1",
+  "benchmarkUrl": "https://api.facepunch.com/api/public/benchmark/add/?public_key=j0VF6sNnzn9rwt9qTZtI02zTYK8PRdN1",
+  "accountUrl": "https://api.facepunch.com/api/public/account/{action}/?public_key=j0VF6sNnzn9rwt9qTZtI02zTYK8PRdN1",
+  "servers": {
+    "official": [
+      {
+        "address": "play.twinkrust.ru",
+        "port": 35016,
+        "tags": null
+      }
+    ],
+    "banned": []
+  },
+  "metadata": {
+    "loadingScreens": [
+      "https://files.facepunch.com/Alistair/04/07/8666A1/pvp_raid_01.jpg",
+      "https://files.facepunch.com/Alistair/04/07/2P45c1/patrolheli_01.jpg",
+      "https://files.facepunch.com/Alistair/04/07/8A41b1/scientists_trio_01.jpg",
+      "https://files.facepunch.com/Alistair/04/07/0h1191/tunnel_station_02.jpg",
+      "https://files.facepunch.com/Alistair/04/07/3L24c1/scientists_arctic_01.jpg",
+      "https://files.facepunch.com/Alistair/04/07/5v37U1/peacekeepers_01.jpg",
+      "https://files.facepunch.com/Alistair/04/07/2v85A1/underwaterlabs_01.jpg",
+      "https://files.facepunch.com/Alistair/04/07/4T28H1/workcart_01.jpg",
+      "https://files.facepunch.com/Alistair/04/07/5L25f1/compoundbow_01.jpg",
+      "https://files.facepunch.com/Alistair/04/07/2K56O1/diver_01.jpg",
+      "https://files.facepunch.com/Alistair/04/07/0m84K1/desertbase_01.jpg",
+      "https://files.facepunch.com/Alistair/04/07/9o08G1/launchsite_hazmat_01.jpg",
+      "https://files.facepunch.com/Alistair/04/07/6A31F1/mlrs_01.jpg",
+      "https://files.facepunch.com/Alistair/04/07/0I73V1/forest_01.jpg",
+      "https://files.facepunch.com/Alistair/04/07/7D72P1/doorcamp_01.jpg",
+      "https://files.facepunch.com/Alistair/04/07/8648Z1/nvg_tactical_01.jpg",
+      "https://files.facepunch.com/paddy/20220506/trains_aboveground_01.jpg"
+    ],
+    "blockedServers": [
+      "91.214.70.66",
+      "83.69.248.89",
+      "31.31.203.58",
+      "77.232.39.251",
+      "45.88.229.24",
+      "154.6.150.2",
+      "5.180.102.17",
+      "89.108.77.104",
+      "117.67.156.64",
+      "185.244.181.87",
+      "185.173.39.39",
+      "91.142.77.39",
+      "91.142.78.200",
+      "109.107.190.190",
+      "185.173.37.44",
+      "77.232.36.28",
+      "77.232.43.103",
+      "109.107.180.193",
+      "77.232.41.106",
+      "199.231.233.137",
+      "45.81.19.251",
+      "104.238.229.241:28146",
+      "104.143.3.217:28146"
+    ],
+    "trophyPages": [
+      {
+        "eventTitle": "Twitch Rivals Event 1",
+        "logo": "https://files.facepunch.com/Alistair/07/29/6e9331/SwYyDvCo.png",
+        "winningTeam": "Team DisguisedToast",
+        "teamMembers": [
+          "OvileeMay\t",
+          "MrLlamaSC\t",
+          "Natsumiii\t",
+          "hJune\t",
+          "Shiphtur\t",
+          "BaboAbe\t",
+          "MissDoitBIG\t",
+          "Scarra\t",
+          "itsRyanHiga\t",
+          "Welyn\t",
+          "zvch\t",
+          "triciaisabirdy\t",
+          "xQc\t",
+          "sykkuno\t",
+          "5up\t",
+          "renniesaurus\t",
+          "sajam\t",
+          "Buddha\t",
+          "KristoferYee\t",
+          "Mendo\t",
+          "Nadeshot\t",
+          "DisguisedToast\t",
+          "tarik\t",
+          "Chap\t",
+          "chrismelberger\t",
+          "surefour\t",
+          "taxi2g\t",
+          "Shroud\t",
+          "Bnans\t",
+          "impheetus\t",
+          "Sneakylol\t",
+          "spoonkid\t",
+          "Picco\t",
+          "Coconutb\t",
+          "Morgausse\t",
+          "blooprint\t",
+          "Crunch\t",
+          "m0xyy\t",
+          "AnthonyZ\t",
+          "Ray__C",
+          "Kruzadar"
+        ]
+      }
+    ],
+    "radioStations": [
+      "Rust Radio,rustradio.facepunch.com",
+      "Chippy Radio,chippyradio.facepunch.com",
+      "Sonis Beats,sonisradio.facepunch.com",
+      "Triple J,http://live-radio01.mediahubaustralia.com/2TJW/mp3/",
+      "BBC Radio One,http://stream.live.vc.bbcmedia.co.uk/bbc_radio_one",
+      "BBC Radio Two,http://stream.live.vc.bbcmedia.co.uk/bbc_radio_two",
+      "BBC Radio Three,http://stream.live.vc.bbcmedia.co.uk/bbc_radio_three",
+      "BBC Radio Four,http://stream.live.vc.bbcmedia.co.uk/bbc_radio_fourfm",
+      "BBC Radio 1xtra,http://stream.live.vc.bbcmedia.co.uk/bbc_1xtra",
+      "NPR,https://npr-ice.streamguys1.com/live.mp3",
+      "98.7 The Shark,http://17643.live.streamtheworld.com/WPBBFM.mp3",
+      "Magic Oldies Florida,http://ais-edge07-live365-dal02.cdnstream.com/a46209",
+      "Smooth Jazz Florida,http://server.webnetradio.net:5120/",
+      "Salsa Radio,http://radio.domiplay.net:2002/;",
+      "Radio Central,http://philae.shoutca.st:8459/stream",
+      "J Pop Project Radio - Global Edition,http://bluford.torontocast.com:8085/stream",
+      "Heart FM,http://media-ice.musicradio.com/HeartLondonMP3",
+      "Heart 80s,https://media-ice.musicradio.com/Heart80sMP3",
+      "Heart 90s,https://media-ice.musicradio.com/Heart90sMP3",
+      "Heart Dance,https://icecast.thisisdax.com/HeartDanceMP3",
+      "KEXP,http://kexp-mp3-128.streamguys1.com/kexp128.mp3",
+      "Kool London,http://uk1-pn.webcast-server.net:8698/",
+      "Sensimedia,http://equinox.shoutca.st:9878",
+      "WEFUNK,http://s-00.wefunkradio.com:81/wefunk64.mp3",
+      "Metal Rock,http://listen.djcmedia.com/metalrockradiohigh",
+      "Smooth Country,https://media-ice.musicradio.com/SmoothCountryMP3",
+      "Real Punk Radio,http://s2.nexuscast.com:8080/stream"
+    ]
+  }
+}
